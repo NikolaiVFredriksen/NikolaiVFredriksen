@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Nikolai 👋
 
-<!--
-**NikolaiVFredriksen/NikolaiVFredriksen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend and full-stack developer with a bachelor's degree in front-end and mobile development. I build web apps and AI-powered features.
 
-Here are some ideas to get you started:
+* 🤖 Working with LLMs, RAG and AI agents
+* 📜 Certified in AZ-900 and AI-901
+* ✨ I care about details and making things polished
+* 🔨 Currently building Rephone
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+* **[Rephone](https://github.com/NikolaiVFredriksen/Rephone)**: AI-powered marketplace for used phones with plain-language search and automatic listings.
+* **[OscarsCompanion](https://github.com/NikolaiVFredriksen/OscarsCompanion)**: track the Oscar nominations across all 15 categories, with live TMDB data and sync across devices.
+* **[Looply](https://github.com/NikolaiVFredriksen/Looply)**: a PWA for mindfulness.
+* **[Portfolio](https://github.com/NikolaiVFredriksen/WebsitePortfolio)**: my personal site.
+
+## 🧑‍💻 Tech stack
+
+* 🖋️ Languages: TypeScript, JavaScript, C#
+* 🌐 Frontend: React, Next.js, Tailwind CSS
+* ⚙️ Backend: Node.js, ASP.NET Core, REST APIs
+* 🤖 AI: LLM integrations, OpenAI API, RAG, AI agents
+* 🗄️ Databases: PostgreSQL
+* 🧪 Testing: Vitest, Playwright
+* ☁️ Cloud and tools: Azure, Git, CI/CD, Docker
+
+## 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/nikolai-fredriksen) · nikolaifredriksen5@gmail.com
