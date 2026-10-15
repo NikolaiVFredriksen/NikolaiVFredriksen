@@ -5,7 +5,6 @@ Frontend and full-stack developer with a bachelor's degree in front-end and mobi
 * 🤖 Working with LLMs, RAG and AI agents
 * 📜 Certified in AZ-900 and AI-901
 * ✨ I care about details and making things polished
-* 🔨 Currently building Rephone
 
 ## 🚀 Projects
 
